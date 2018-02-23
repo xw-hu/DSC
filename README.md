@@ -61,7 +61,7 @@ The results of shadow detection on SBU and UCF can be found at [Google Drive](ht
    Put this model in `DSC/models/`
 
 2. Enter the `DSC/examples/`   
-   Modify the image path in `train_val.prototxt`.
+   Modify the image path in `DSC.prototxt`.
 
 3. Run   
    ```shell
