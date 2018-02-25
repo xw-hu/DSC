@@ -38,12 +38,13 @@ The results of shadow detection on SBU and UCF can be found at [Google Drive](ht
 
 ## Test
 1. Please download our pretrained model at [Google Drive](https://drive.google.com/open?id=1RAdblaOEZaH8fAeqJ-8G2Cro4Crp1NdJ).   
-   Put this model in `DSC/examples/snapshot/`.
+   Put this model in `DSC/examples/DSC/snapshot/`.
 
 2. Export PYTHONPATH in the command window such as:
 
    ```shell
-   export PYTHONPATH='/home/xwhu/DSC/python'
+   cd ./examples/DSC/
+   export PYTHONPATH='../../python'
    ```
  
 3. Run the test model (please modify the path of images):
