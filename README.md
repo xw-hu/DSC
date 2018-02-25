@@ -43,7 +43,6 @@ The results of shadow detection on SBU and UCF can be found at [Google Drive](ht
 2. Export PYTHONPATH in the command window such as:
 
    ```shell
-   cd ./examples/DSC/
    export PYTHONPATH='../../python'
    ```
  
