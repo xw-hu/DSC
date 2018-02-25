@@ -42,9 +42,7 @@ The results of shadow detection on SBU and UCF can be found at [Google Drive](ht
 
 2. Export PYTHONPATH in the command window such as:
 
-   ```shell
-   export PYTHONPATH='../../python'
-   ```
+
  
 3. Run the test model (please modify the path of images):
    
