@@ -40,9 +40,11 @@ The results of shadow detection on SBU and UCF can be found at [Google Drive](ht
 1. Please download our pretrained model at [Google Drive](https://drive.google.com/open?id=1RAdblaOEZaH8fAeqJ-8G2Cro4Crp1NdJ).   
    Put this model in `DSC/examples/DSC/snapshot/`.
 
-2. Export PYTHONPATH in the command window such as:
+2. Enter the `DSC/examples/` and export PYTHONPATH in the command window such as:
 
-
+   ```shell
+   export PYTHONPATH='../../python'
+   ```
  
 3. Run the test model (please modify the path of images):
    
@@ -58,7 +60,7 @@ The results of shadow detection on SBU and UCF can be found at [Google Drive](ht
 1. Download the pre-trained VGG16 model at [http://www.robots.ox.ac.uk/~vgg/research/very_deep/](http://www.robots.ox.ac.uk/~vgg/research/very_deep/).   
    Put this model in `DSC/models/`
 
-2. Enter the `DSC/examples/`   
+2. Enter the `DSC/examples/DSC/`   
    Modify the image path in `DSC.prototxt`.
 
 3. Run   
