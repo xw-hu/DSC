@@ -1,0 +1,16 @@
+train_net: "DSC.prototxt"
+base_lr: 1e-5
+lr_policy: "multistep"
+gamma: 0.316
+stepvalue: 90000
+stepvalue: 130000
+average_loss: 100
+display: 100
+max_iter: 160000
+momentum: 0.9
+momentum2: 0.99
+weight_decay: 0.0005
+snapshot: 20000
+snapshot_prefix: "snapshot/DSC"
+type: "Adam"
+
