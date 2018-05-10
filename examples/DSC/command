@@ -1,2 +1,0 @@
-export PYTHONPATH='../../python'
-export LD_LIBRARY_PATH='/home/xwhu/Documents/cudnn5/lib64':$LD_LIBRARY_PATH
