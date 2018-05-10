@@ -61,7 +61,7 @@ The results of shadow detection on SBU and UCF can be found at [Google Drive](ht
    export PYTHONPATH='../../python'
    ```  
    
-   Run the test model (please modify the path of images) and resize the results to the size of original images:
+   Run the test model and resize the results to the size of original images:
      
    ```shell
    ipython notebook DSC_test.ipynb
