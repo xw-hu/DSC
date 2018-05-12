@@ -55,7 +55,7 @@ The results of shadow detection on SBU and UCF can be found at [Google Drive](ht
 
 2. (Matlab User) Enter the `DSC/examples/` and run `test_detection.m` in Matlab. 
  
-2. (Python User) Enter the `DSC/examples/DSC/` and export PYTHONPATH in the command window such as:
+2. (Python User) Enter the `DSC/examples/DSC_detection/` and export PYTHONPATH in the command window such as:
 
    ```shell
    export PYTHONPATH='../../python'
