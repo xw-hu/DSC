@@ -8,14 +8,15 @@ This implementation is written by Xiaowei Hu at the Chinese University of Hong K
 
 ## Citation
 
-@inproceedings{hu2018direction,   
-&nbsp;&nbsp;&nbsp;&nbsp;  author = {Hu, Xiaowei and Zhu, Lei and Fu, Chi-Wing and Qin, Jing and Heng, Pheng-Ann},    
-&nbsp;&nbsp;&nbsp;&nbsp;  title = {Direction-aware Spatial Context Features for Shadow Detection},    
-&nbsp;&nbsp;&nbsp;&nbsp;  booktitle = {CVPR},    
-&nbsp;&nbsp;&nbsp;&nbsp;  year  = {2018}    
+@InProceedings{Hu_2018_CVPR,      
+&nbsp;&nbsp;&nbsp;&nbsp;  author = {Hu, Xiaowei and Zhu, Lei and Fu, Chi-Wing and Qin, Jing and Heng, Pheng-Ann},      
+&nbsp;&nbsp;&nbsp;&nbsp;  title = {Direction-Aware Spatial Context Features for Shadow Detection},      
+&nbsp;&nbsp;&nbsp;&nbsp;  booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},      
+&nbsp;&nbsp;&nbsp;&nbsp;  month = {June},      
+&nbsp;&nbsp;&nbsp;&nbsp;  year = {2018}      
 }
 
-@article{hu2018d,   
+@article{hu2018direction,   
 &nbsp;&nbsp;&nbsp;&nbsp;  author = {Hu, Xiaowei and Fu, Chi-Wing and Zhu, Lei and Qin, Jing and Heng, Pheng-Ann},    
 &nbsp;&nbsp;&nbsp;&nbsp;  title = {Direction-aware Spatial Context Features for Shadow Detection and Removal},    
 &nbsp;&nbsp;&nbsp;&nbsp;  journal={arXiv preprint arXiv:1805.04635},    
