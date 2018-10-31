@@ -38,18 +38,19 @@ The results of shadow detection on SBU and UCF can be found at [Google Drive](ht
     git clone https://github.com/xw-hu/DSC.git
     ```
 
-3. Put the `DSC` into `CF-caffe/examples/`
+3. Replace `CF-caffe/examples/` by `DSC/examples/`.
+   Replace `CF-caffe/data/` by `DSC/data/`.
 
 
 ## Test   
 
 ### Shadow Detection   
 1. Please download our pretrained model at [Google Drive](https://drive.google.com/open?id=1RAdblaOEZaH8fAeqJ-8G2Cro4Crp1NdJ).   
-   Put this model in `DSC/DSC_detection/snapshot/`.
+   Put this model in `examples/DSC/DSC_detection/snapshot/`.
 
-2. (Matlab User) Enter the `DSC/` and run `test_detection.m` in Matlab. 
+2. (Matlab User) Enter the `examples/DSC/` and run `test_detection.m` in Matlab. 
  
-2. (Python User) Enter the `DSC/DSC_detection/` and export PYTHONPATH in the command window such as:
+2. (Python User) Enter the `examples/DSC/DSC_detection/` and export PYTHONPATH in the command window such as:
 
    ```shell
    export PYTHONPATH='../../../python'
@@ -66,7 +67,7 @@ The results of shadow detection on SBU and UCF can be found at [Google Drive](ht
    *Note that please provide a link to the original code as a footnote or a citation if you plan to use it.
 
 ### Shadow Removal   
-Enter the `DSC/` and run `test_removal.m` in Matlab.    
+Enter the `examples/DSC/` and run `test_removal.m` in Matlab.    
   
 ## Train
 
@@ -74,7 +75,7 @@ Download the pre-trained VGG16 model at [http://www.robots.ox.ac.uk/~vgg/researc
    Put this model in `CF-caffe/models/`
    
 ### Shadow Detection   
-1. Enter the `DSC/DSC_detection/`   
+1. Enter the `examples/DSC/DSC_detection/`   
    Modify the image path in `DSC.prototxt`.
 
 2. Run   
@@ -84,14 +85,14 @@ Download the pre-trained VGG16 model at [http://www.robots.ox.ac.uk/~vgg/researc
 
 ### Shadow Removal   
 1. Color compensation mechanism:     
-   Enter the `CF-caffe/data/SRD/` or `CF-caffe/data/ISTD/`.      
+   Enter the `/data/SRD/` or `/data/ISTD/`.      
    Run `color_transfer_function.m` in Matlab.     
 
 2. Transfer the images into the `LAB` color sapce and do the data argumentation:     
-   Enter the `CF-caffe/data/SRD/` or `CF-caffe/data/ISTD/`.       
+   Enter the `/data/SRD/` or `/data/ISTD/`.       
    Run `ToLab.m` and `data_argument.m` in Matlab.       
    
-3. Enter the `DSC/DSC_removal_SRD/` or `DSC/DSC_removal_ISTD/`.     
+3. Enter the `examples/DSC/DSC_removal_SRD/` or `examples/DSC/DSC_removal_ISTD/`.     
    Modify the image path in `DSC.prototxt`.     
 
 4. Run     
