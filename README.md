@@ -38,8 +38,8 @@ The results of shadow detection on SBU and UCF can be found at [Google Drive](ht
     git clone https://github.com/xw-hu/DSC.git
     ```
 
-3. Replace `CF-caffe/examples/` by `DSC-master/examples/`.
-   Replace `CF-caffe/data/` by `DSC-master/data/`.
+3. Replace `CF-Caffe/examples/` by `DSC-master/examples/`.
+   Replace `CF-Caffe/data/` by `DSC-master/data/`.
 
 
 ## Test   
@@ -72,7 +72,7 @@ Enter the `examples/DSC/` and run `test_removal.m` in Matlab.
 ## Train
 
 Download the pre-trained VGG16 model at [http://www.robots.ox.ac.uk/~vgg/research/very_deep/](http://www.robots.ox.ac.uk/~vgg/research/very_deep/).   
-   Put this model in `CF-caffe/models/`
+   Put this model in `CF-Caffe/models/`
    
 ### Shadow Detection   
 1. Enter the `examples/DSC/DSC_detection/`   
