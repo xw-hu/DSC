@@ -32,14 +32,14 @@ The results of shadow detection on SBU and UCF can be found at [Google Drive](ht
 
 1. Please download and compile our [CF-Caffe](https://github.com/xw-hu/CF-Caffe).
 
-2. Clone the DSC repository, and we'll call the directory that you cloned DSC into `DSC`.
+2. Clone the DSC repository, and we'll call the directory that you cloned as `DSC-master`.
 
     ```shell
     git clone https://github.com/xw-hu/DSC.git
     ```
 
-3. Replace `CF-caffe/examples/` by `DSC/examples/`.
-   Replace `CF-caffe/data/` by `DSC/data/`.
+3. Replace `CF-caffe/examples/` by `DSC-master/examples/`.
+   Replace `CF-caffe/data/` by `DSC-master/data/`.
 
 
 ## Test   
