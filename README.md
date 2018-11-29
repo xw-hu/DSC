@@ -12,7 +12,7 @@ This implementation is written by Xiaowei Hu at the Chinese University of Hong K
 &nbsp;&nbsp;&nbsp;&nbsp;  author = {Hu, Xiaowei and Zhu, Lei and Fu, Chi-Wing and Qin, Jing and Heng, Pheng-Ann},      
 &nbsp;&nbsp;&nbsp;&nbsp;  title = {Direction-Aware Spatial Context Features for Shadow Detection},      
 &nbsp;&nbsp;&nbsp;&nbsp;  booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},      
-&nbsp;&nbsp;&nbsp;&nbsp;  month = {June},      
+&nbsp;&nbsp;&nbsp;&nbsp;  pages={7454--7462},        
 &nbsp;&nbsp;&nbsp;&nbsp;  year = {2018}      
 }
 
