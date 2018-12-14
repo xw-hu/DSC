@@ -26,7 +26,7 @@ This implementation is written by Xiaowei Hu at the Chinese University of Hong K
 
 ## Results
 
-The results of shadow detection on SBU and UCF can be found at [Google Drive](https://drive.google.com/open?id=1DCTqEnYJ8ADBqShBzXFYKa_yD-YZKEo7).
+The results of shadow detection on SBU and UCF can be found at [Google Drive](https://drive.google.com/open?id=1DCTqEnYJ8ADBqShBzXFYKa_yD-YZKEo7).           
 The results of shadow detection on new split (used by some works) of UCF can be found at [Google Drive](https://drive.google.com/file/d/1AL78O1Vkdb0gCUWS57lv2wcQM0gDFa0L); BER: 10.38, accuracy: 0.95.
 
 ## Installation
