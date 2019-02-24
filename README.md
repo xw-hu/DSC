@@ -29,7 +29,7 @@ This implementation is written by Xiaowei Hu at the Chinese University of Hong K
 The sahadow detection results on SBU and UCF can be found at [Google Drive](https://drive.google.com/open?id=1DCTqEnYJ8ADBqShBzXFYKa_yD-YZKEo7).           
 The shadow detection results on the new split of UCF (used by some works) can be found at [Google Drive](https://drive.google.com/file/d/1AL78O1Vkdb0gCUWS57lv2wcQM0gDFa0L); BER: 10.38, accuracy: 0.95.          
 
-The shadow removal results of [Google Drive](https://drive.google.com/open?id=1QzsaNn35PE4OORj4yemKxMwSh-Azcf3Y)               
+The shadow removal results of SRD and ISTD can be found at [Google Drive](https://drive.google.com/open?id=1QzsaNn35PE4OORj4yemKxMwSh-Azcf3Y).               
 
 ## Installation
 
