@@ -30,7 +30,12 @@ This implementation is written by Xiaowei Hu at the Chinese University of Hong K
 The shadow detection results on the SBU and UCF datasets can be found at [Google Drive](https://drive.google.com/open?id=1DCTqEnYJ8ADBqShBzXFYKa_yD-YZKEo7).           
 The shadow detection results on the new split of UCF (used by some works) can be found at [Google Drive](https://drive.google.com/file/d/1AL78O1Vkdb0gCUWS57lv2wcQM0gDFa0L); BER: 10.38, accuracy: 0.95.          
 
-The shadow removal results on the SRD and ISTD datasets can be found at [Google Drive](https://drive.google.com/open?id=1QzsaNn35PE4OORj4yemKxMwSh-Azcf3Y).               
+The shadow removal results on the SRD and ISTD datasets can be found at [Google Drive](https://drive.google.com/open?id=1QzsaNn35PE4OORj4yemKxMwSh-Azcf3Y).     
+
+
+## Pytorch Version
+A PyTorch version is avaliable at [https://github.com/stevewongv/DSC-PyTorch](https://github.com/stevewongv/DSC-PyTorch) implementated by [Tianyu Wang](https://github.com/stevewongv).
+
 
 ## Installation
 
