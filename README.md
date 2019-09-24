@@ -33,7 +33,7 @@ The shadow detection results on the new split of UCF (used by some works) can be
 The shadow removal results on the SRD and ISTD datasets can be found at [Google Drive](https://drive.google.com/open?id=1QzsaNn35PE4OORj4yemKxMwSh-Azcf3Y).     
 
 
-## Pytorch Version
+## PyTorch Version
 A PyTorch version is available at [https://github.com/stevewongv/DSC-PyTorch](https://github.com/stevewongv/DSC-PyTorch) implemented by [Tianyu Wang](https://github.com/stevewongv).
 
 
