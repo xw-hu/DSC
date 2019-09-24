@@ -34,7 +34,7 @@ The shadow removal results on the SRD and ISTD datasets can be found at [Google 
 
 
 ## Pytorch Version
-A PyTorch version is avaliable at [https://github.com/stevewongv/DSC-PyTorch](https://github.com/stevewongv/DSC-PyTorch) implementated by [Tianyu Wang](https://github.com/stevewongv).
+A PyTorch version is available at https://github.com/stevewongv/DSC-PyTorch implemented by Tianyu Wang.
 
 
 ## Installation
