@@ -6,6 +6,19 @@ This implementation is written by Xiaowei Hu at the Chinese University of Hong K
 
 ***
 
+## PyTorch Version
+A PyTorch version is available at [https://github.com/stevewongv/DSC-PyTorch](https://github.com/stevewongv/DSC-PyTorch) implemented by [Tianyu Wang](https://github.com/stevewongv).
+
+
+## Results
+
+The shadow detection results on the SBU and UCF datasets can be found at [Google Drive](https://drive.google.com/open?id=1DCTqEnYJ8ADBqShBzXFYKa_yD-YZKEo7).           
+The shadow detection results on the new split of UCF (used by some works) can be found at [Google Drive](https://drive.google.com/file/d/1AL78O1Vkdb0gCUWS57lv2wcQM0gDFa0L); BER: 10.38, accuracy: 0.95.          
+
+The shadow removal results on the SRD and ISTD datasets can be found at [Google Drive](https://drive.google.com/open?id=1QzsaNn35PE4OORj4yemKxMwSh-Azcf3Y).     
+
+
+
 ## Citation
 
 @InProceedings{Hu_2018_CVPR,      
@@ -23,20 +36,8 @@ This implementation is written by Xiaowei Hu at the Chinese University of Hong K
 &nbsp;&nbsp;&nbsp;&nbsp;  volume={42},             
 &nbsp;&nbsp;&nbsp;&nbsp;  number={11},        
 &nbsp;&nbsp;&nbsp;&nbsp;  pages={2795--2808},           
-&nbsp;&nbsp;&nbsp;&nbsp;  year  = {2020},                                  
+&nbsp;&nbsp;&nbsp;&nbsp;  year  = {2020}                                  
 }
-
-
-## Results
-
-The shadow detection results on the SBU and UCF datasets can be found at [Google Drive](https://drive.google.com/open?id=1DCTqEnYJ8ADBqShBzXFYKa_yD-YZKEo7).           
-The shadow detection results on the new split of UCF (used by some works) can be found at [Google Drive](https://drive.google.com/file/d/1AL78O1Vkdb0gCUWS57lv2wcQM0gDFa0L); BER: 10.38, accuracy: 0.95.          
-
-The shadow removal results on the SRD and ISTD datasets can be found at [Google Drive](https://drive.google.com/open?id=1QzsaNn35PE4OORj4yemKxMwSh-Azcf3Y).     
-
-
-## PyTorch Version
-A PyTorch version is available at [https://github.com/stevewongv/DSC-PyTorch](https://github.com/stevewongv/DSC-PyTorch) implemented by [Tianyu Wang](https://github.com/stevewongv).
 
 
 ## Installation
