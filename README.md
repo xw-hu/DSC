@@ -20,8 +20,10 @@ This implementation is written by Xiaowei Hu at the Chinese University of Hong K
 &nbsp;&nbsp;&nbsp;&nbsp;  author = {Hu, Xiaowei and Fu, Chi-Wing and Zhu, Lei and Qin, Jing and Heng, Pheng-Ann},    
 &nbsp;&nbsp;&nbsp;&nbsp;  title = {Direction-Aware Spatial Context Features for Shadow Detection and Removal},    
 &nbsp;&nbsp;&nbsp;&nbsp;  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},    
-&nbsp;&nbsp;&nbsp;&nbsp;  year  = {2019},          
-&nbsp;&nbsp;&nbsp;&nbsp;  note={to appear}                  
+&nbsp;&nbsp;&nbsp;&nbsp;  volume={42},             
+&nbsp;&nbsp;&nbsp;&nbsp;  number={11},        
+&nbsp;&nbsp;&nbsp;&nbsp;  pages={2795--2808},           
+&nbsp;&nbsp;&nbsp;&nbsp;  year  = {2020},                                  
 }
 
 
