@@ -29,7 +29,7 @@ The shadow removal results on the SRD and ISTD datasets can be found at [Google 
 &nbsp;&nbsp;&nbsp;&nbsp;  year = {2018}
 }
 
-@article{hu2019direction,   
+@article{hu2020direction,   
 &nbsp;&nbsp;&nbsp;&nbsp;  author = {Hu, Xiaowei and Fu, Chi-Wing and Zhu, Lei and Qin, Jing and Heng, Pheng-Ann},    
 &nbsp;&nbsp;&nbsp;&nbsp;  title = {Direction-Aware Spatial Context Features for Shadow Detection and Removal},    
 &nbsp;&nbsp;&nbsp;&nbsp;  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},    
