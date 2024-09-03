@@ -1,4 +1,4 @@
-# Direction-Aware Spatial Context Features for Shadow Detection (and Removal)
+# Direction-Aware Spatial Context Features for Shadow Detection and Removal
 
 by Xiaowei Hu, Chi-Wing Fu, Lei Zhu, Jing Qin and Pheng-Ann Heng
 
