@@ -19,7 +19,7 @@ The shadow removal results on the SRD and ISTD datasets can be found at [Google 
 
 
 
-## Citation
+## Citations
 ```
 @InProceedings{Hu_2018_CVPR,      
   author = {Hu, Xiaowei and Zhu, Lei and Fu, Chi-Wing and Qin, Jing and Heng, Pheng-Ann},      
