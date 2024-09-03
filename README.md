@@ -22,22 +22,22 @@ The shadow removal results on the SRD and ISTD datasets can be found at [Google 
 ## Citation
 ```
 @InProceedings{Hu_2018_CVPR,      
-&nbsp;&nbsp;&nbsp;&nbsp;  author = {Hu, Xiaowei and Zhu, Lei and Fu, Chi-Wing and Qin, Jing and Heng, Pheng-Ann},      
-&nbsp;&nbsp;&nbsp;&nbsp;  title = {Direction-Aware Spatial Context Features for Shadow Detection},      
-&nbsp;&nbsp;&nbsp;&nbsp;  booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},      
-&nbsp;&nbsp;&nbsp;&nbsp;  pages={7454--7462},        
-&nbsp;&nbsp;&nbsp;&nbsp;  year = {2018}
+  author = {Hu, Xiaowei and Zhu, Lei and Fu, Chi-Wing and Qin, Jing and Heng, Pheng-Ann},      
+  title = {Direction-Aware Spatial Context Features for Shadow Detection},      
+  booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},      
+  pages={7454--7462},        
+  year = {2018}
 }
 ```
 ```
 @article{hu2020direction,   
-&nbsp;&nbsp;&nbsp;&nbsp;  author = {Hu, Xiaowei and Fu, Chi-Wing and Zhu, Lei and Qin, Jing and Heng, Pheng-Ann},    
-&nbsp;&nbsp;&nbsp;&nbsp;  title = {Direction-Aware Spatial Context Features for Shadow Detection and Removal},    
-&nbsp;&nbsp;&nbsp;&nbsp;  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},    
-&nbsp;&nbsp;&nbsp;&nbsp;  volume={42},             
-&nbsp;&nbsp;&nbsp;&nbsp;  number={11},        
-&nbsp;&nbsp;&nbsp;&nbsp;  pages={2795--2808},           
-&nbsp;&nbsp;&nbsp;&nbsp;  year  = {2020}                                  
+  author = {Hu, Xiaowei and Fu, Chi-Wing and Zhu, Lei and Qin, Jing and Heng, Pheng-Ann},    
+  title = {Direction-Aware Spatial Context Features for Shadow Detection and Removal},    
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},    
+  volume={42},             
+  number={11},        
+  pages={2795--2808},           
+  year  = {2020}                                  
 }
 ```
 
