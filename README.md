@@ -54,8 +54,7 @@ Please find the new results at [https://github.com/xw-hu/Unveiling-Deep-Shadows]
 ## Test   
 
 ### Shadow Detection   
-1. Please download our pretrained model at [Google Drive](https://drive.google.com/open?id=1RAdblaOEZaH8fAeqJ-8G2Cro4Crp1NdJ).   
-   Put this model in `examples/DSC/DSC_detection/snapshot/`.
+1. Put the trained model in `examples/DSC/DSC_detection/snapshot/`.
 
 2. (Matlab User) Enter the `examples/DSC/` and run `test_detection.m` in Matlab. 
  
