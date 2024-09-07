@@ -12,7 +12,7 @@ A PyTorch version is available at [https://github.com/stevewongv/DSC-PyTorch](ht
 
 ## Results
 
-Please find the new results (no CRF) at [https://github.com/xw-hu/Unveiling-Deep-Shadows](https://github.com/xw-hu/Unveiling-Deep-Shadows).
+Please find the new results (without CRF) at [https://github.com/xw-hu/Unveiling-Deep-Shadows](https://github.com/xw-hu/Unveiling-Deep-Shadows).
 
 
 ## Citations
