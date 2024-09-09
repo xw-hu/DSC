@@ -15,27 +15,6 @@ A PyTorch version is available at [https://github.com/stevewongv/DSC-PyTorch](ht
 Please find the new results (without CRF for shadow detection) at [https://github.com/xw-hu/Unveiling-Deep-Shadows](https://github.com/xw-hu/Unveiling-Deep-Shadows).
 
 
-## Citations
-```
-@InProceedings{Hu_2018_CVPR,      
-  author = {Hu, Xiaowei and Zhu, Lei and Fu, Chi-Wing and Qin, Jing and Heng, Pheng-Ann},      
-  title = {Direction-Aware Spatial Context Features for Shadow Detection},      
-  booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},      
-  pages={7454--7462},        
-  year = {2018}
-}
-```
-```
-@article{hu2020direction,   
-  author = {Hu, Xiaowei and Fu, Chi-Wing and Zhu, Lei and Qin, Jing and Heng, Pheng-Ann},    
-  title = {Direction-Aware Spatial Context Features for Shadow Detection and Removal},    
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},    
-  volume={42},             
-  number={11},        
-  pages={2795--2808},           
-  year  = {2020}                                  
-}
-```
 
 ## Installation
 
@@ -107,4 +86,26 @@ Download the pre-trained VGG16 model at [http://www.robots.ox.ac.uk/~vgg/researc
    ```shell
    sh train.sh
    ```    
-   
+
+## Bibtex
+If you find our work, code, or results useful, please consider citing our papers as follows:
+```
+@InProceedings{Hu_2018_CVPR,      
+  author = {Hu, Xiaowei and Zhu, Lei and Fu, Chi-Wing and Qin, Jing and Heng, Pheng-Ann},      
+  title = {Direction-Aware Spatial Context Features for Shadow Detection},      
+  booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},      
+  pages={7454--7462},        
+  year = {2018}
+}
+```
+```
+@article{hu2020direction,   
+  author = {Hu, Xiaowei and Fu, Chi-Wing and Zhu, Lei and Qin, Jing and Heng, Pheng-Ann},    
+  title = {Direction-Aware Spatial Context Features for Shadow Detection and Removal},    
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},    
+  volume={42},             
+  number={11},        
+  pages={2795--2808},           
+  year  = {2020}                                  
+}
+```
